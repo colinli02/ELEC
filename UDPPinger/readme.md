@@ -1,4 +1,4 @@
-UDP Pinger Lab 2 
+UDP Pinger using .py 
 
 ```
 Put both in same directory
